@@ -282,7 +282,7 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/fernandomonterrosoumg/fernandomonterrosoumg/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
@@ -304,4 +304,3 @@ API
 Training
 Blog
 About
-awesome-github-profile-readme-templates/fernandomonterrosoumg.md at master · durgeshsamariya/awesome-github-profile-readme-templates
