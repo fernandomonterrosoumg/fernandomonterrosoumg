@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Fernando Monterroso<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer and a student from Guatemala.</h3>
+<h3 font-size="20" align="center">Passionate backend developer and student from Guatemala, this is solely my university profile for Mariano Galvez's university.</h3>
 
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/fernandomonterrosoumg/fernandomonterrosoumg/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
